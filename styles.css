@@ -92,6 +92,10 @@ p {
   margin-left: 25px;
 }
 
+footer .fa {
+  color: #666;
+}
+
 .bg-danger .fa {
   color: #ffffff8c;
   font-size: 20px;
@@ -404,10 +408,6 @@ p {
   height: 190px;
 }
 
-footer .fa {
-  color: #666;
-}
-
 .languages {
   display: flex;
   flex-wrap: wrap;
@@ -482,15 +482,12 @@ footer .fa {
   .smalls a {
     font-size: 17px;
     line-height: 22px;
+    margin-left: 5px;
   }
 
   .smalls img {
     width: 95px;
     height: 95px;
-  }
-
-  .smalls a {
-    margin-left: 5px;
   }
 
   .latest-img {
