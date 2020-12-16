@@ -3,6 +3,8 @@
 -The project of the 3rd week of the html & css module. It's the homepage of 'https://www.newsweek.com/'.
 -Built as a responsive page using bootstrap.
 
+![Screenshot](https://user-images.githubusercontent.com/68623189/102411485-61b20d80-3fc8-11eb-921d-a78e6116e798.png)
+
 ## Built With
 
 - HTML
@@ -10,6 +12,8 @@
   -Bootstrap.
 
 ## Live Demo
+
+- https://franklinben23.github.io/news-week/
 
 ## Authors
 
