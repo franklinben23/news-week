@@ -1,34 +1,32 @@
 # Project Name: Newsweek homepage
 
--The project of the 3rd week.It's the homepage of 'https://www.newsweek.com/'.
+-The project of the 3rd week of the html & css module. It's the homepage of 'https://www.newsweek.com/'.
 -Built as a responsive page using bootstrap.
 
 ## Built With
 
 - HTML
 - CSS
--sass
--Bootstrap.
+  -Bootstrap.
 
 ## Live Demo
-
 
 ## Authors
 
 👤 **Authors**
 Charles Chukwunweike Eneh
 
-Facebook:https://www.facebook.com/peter.mo.gerges/
-Twitter:https://twitter.com/MoonlighMr
-GitHup:[@GuNner-pete](https://github.com/GuNner-pete)
-Slack:https://app.slack.com/client/T47CT8XPG/D01FMH26VR9/user_profile/U01DP875AP5.
+- Facebook:[]()
+- Twitter: [@ProgrammerBaby](https://twitter.com/ProgrammerBaby?s=09)
+- GitHup: [@charlyeneh](https://github.com/charlyeneh)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/charles-chukwunweike-eneh-5345a2147)
 
 Franklin Benjamin De La Rosa
 
-Facebook: [Franklin Benjamin](https://www.facebook.com/profile.php?id=100005418017053).
-GitHub: [@franklinben23](https://github.com/franklinben23)
-Twitter: @frankli2302
-LinkedIn: Franklin Benjamin
+- Facebook: [Franklin Benjamin](https://www.facebook.com/profile.php?id=100005418017053).
+- GitHub: [@franklinben23](https://github.com/franklinben23)
+- Twitter: @frankli2302
+- LinkedIn: Franklin Benjamin
 
 ## Show your support
 
