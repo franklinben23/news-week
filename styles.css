@@ -83,7 +83,7 @@ input {
   border-left-style: hidden;
   border-bottom-style: hidden;
   width: 100px;
-  }
+}
 
 .no-outline:focus {
   outline: none;
@@ -449,8 +449,8 @@ footer .fa {
   border: 00.2px #f4f5f6 solid;
 }
 
-.icons i{
-  padding:0 7px 0 7px;
+.icons i {
+  padding: 0 7px 0 7px;
   font-size: 25px;
 }
 
