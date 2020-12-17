@@ -77,8 +77,20 @@ p {
   color: #f72210;
 }
 
+input {
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: hidden;
+  width: 100px;
+  }
+
+.no-outline:focus {
+  outline: none;
+}
+
 .fa-search {
-  color: black;
+  color: #ffffff8c;
 }
 
 .sub-button {
@@ -437,6 +449,11 @@ footer .fa {
   border: 00.2px #f4f5f6 solid;
 }
 
+.icons i{
+  padding:0 7px 0 7px;
+  font-size: 25px;
+}
+
 @media only screen and (min-width: 768px) {
   .culture-story {
     width: 33.3%;
@@ -454,6 +471,7 @@ footer .fa {
 
   .magazine-art {
     width: 25%;
+    padding: 10px;
   }
 
   .features-img {
